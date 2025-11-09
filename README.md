@@ -2,4 +2,4 @@
 
 ## Technos
 
-- React ou VueJS
+- React
